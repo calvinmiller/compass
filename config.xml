@@ -6,10 +6,10 @@
         id        = "com.coastalnetdesigns.compass"
         version   = "1.0.0">
 
-    <name>Hello World</name>
+    <name>Compass</name>
 
     <description>
-        Hello World sample application that responds to the deviceready event.
+        Compass app that hopefully points North.
     </description>
 
     <author href="http://coastalnetdesigns.com" email="info@coastalnetdesigns.com">
